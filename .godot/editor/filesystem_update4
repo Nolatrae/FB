@@ -1,0 +1,11 @@
+res://Scene/bird.tscn
+res://Scene/main.tscn
+res://Scene/ground.tscn
+res://Scene/pipe_pair.tscn
+res://Scene/fade.tscn
+res://Scene/UI.tscn
+res://Scripts/bird.gd
+res://Scene/fade.gd
+res://Scene/GameManager.gd
+res://Scripts/ground.gd
+res://highscore.txt

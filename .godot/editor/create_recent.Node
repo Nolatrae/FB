@@ -1,0 +1,15 @@
+RichTextLabel
+TextEdit
+Label
+AudioStreamPlayer
+MarginContainer
+Button
+VBoxContainer
+Panel
+TextureRect
+CollisionShape2D
+Area2D
+CanvasLayer
+AnimationPlayer
+ColorRect
+Node
